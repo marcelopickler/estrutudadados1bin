@@ -1,44 +1,44 @@
 ## 1 Problema
 ##### Quais sao as duas caracterısticas mais comuns para analisar algoritmos?
 
-As duas características mais comuns para analisar um software para dizer se é bom ou ruim são: Tempo e Consumo de memória.
-2 Problema
-Por que a medida de tempo em segundos nao representa qualificadamente o tempo de execucao de um algoritmo?
+##### As duas características mais comuns para analisar um software para dizer se é bom ou ruim são: Tempo e Consumo de memória.
+## 2 Problema
+##### Por que a medida de tempo em segundos nao representa qualificadamente o tempo de execucao de um algoritmo?
 
-Não é medida em tempo o software já que deve possuir certa independência entre a tecnología; o software e o hardware.
-3 Problema
-A medida de tempo de um algoritmo é realizada através de qual informacao?
-O que pode afetá-la?
+##### Não é medida em tempo o software já que deve possuir certa independência entre a tecnología; o software e o hardware.
+## 3 Problema
+##### A medida de tempo de um algoritmo é realizada através de qual informacao?
+##### O que pode afetá-la?
 
-A medição do tempo em representação a qualidade e estabilidade do software é feita mediante os passos do algoritmo que precisa para finalizar a sua execução. Pode afetá-la pelo ambiente do hardware em que ela é executada e o tamanho da entrada.
-4 Problema
-Na análise de algoritmos, qual é o valor da base da funcao logarítmica e exponencial? Por que é escolhido este valor?
+##### A medição do tempo em representação a qualidade e estabilidade do software é feita mediante os passos do algoritmo que precisa ##### para finalizar a sua execução. Pode afetá-la pelo ambiente do hardware em que ela é executada e o tamanho da entrada.
+## 4 Problema
+##### Na análise de algoritmos, qual é o valor da base da funcao logarítmica e exponencial? Por que é escolhido este valor?
 
-A base da função logarítmica e exponencial é 2. A base 2 tem uma importância muito considerada na informática dada a codificação binária que utiliza.O algoritmo binário tem uma frequência de aparição grande no análise de algoritmos. Na funcao logarítmica é usada para descompor o número até chegar a uma base binária; no caso da funcao exponencial, um algoritmo que utiliza-lo é ligeramente melhor que uma operacao com n operacoes aninhadas
-5 Problema
-O que é complexidade de tempo?
+##### A base da função logarítmica e exponencial é 2. A base 2 tem uma importância muito considerada na informática dada a codificação ##### binária que utiliza.O algoritmo binário tem uma frequência de aparição grande no análise de algoritmos. Na funcao logarítmica é ##### usada para descompor o número até chegar a uma base binária; no caso da funcao exponencial, um algoritmo que utiliza-lo é ligeramente melhor que uma operacao com n operacoes aninhadas
+## 5 Problema
+##### O que é complexidade de tempo?
 
-É uma função que representa o número máximo de passos de um algoritmo.
-6 Problema
-Dado dois algoritmos A e B com as complexidades de tempo respectivamente f1 e f2, qual é o melhor algoritmo? O que indica qual é o melhor algoritmo?
+##### É uma função que representa o número máximo de passos de um algoritmo.
+## 6 Problema
+##### Dado dois algoritmos A e B com as complexidades de tempo respectivamente f1 e f2, qual é o melhor algoritmo? O que indica qual é o melhor algoritmo?
 
-Considerando A e B dois algoritmos totalmentes diferentes, é selecionado o melhor aquele que é executado com menores números de passos à finalização da execução e aquele que tem uma menor complexidade de tempo.
-7 Problema
-Em uma funcao de complexidade, o que representa o termo n?
+##### Considerando A e B dois algoritmos totalmentes diferentes, é selecionado o melhor aquele que é executado com menores números de passos à finalização da execução e aquele que tem uma menor complexidade de tempo.
+## 7 Problema
+##### Em uma funcao de complexidade, o que representa o termo n?
 
-Em uma função de complexidade o termo “n” é considerado como o comprimento da entrada.
-8 Problema
-Quais sao as operacoes primitivas de um algoritmo?
+##### Em uma função de complexidade o termo “n” é considerado como o comprimento da entrada.
+## 8 Problema
+##### Quais sao as operacoes primitivas de um algoritmo?
 
-As operações primitivas de um algoritmo são:
+##### As operações primitivas de um algoritmo são:
 
-    Atribuição de valores a variáveis;
-    Chamadas de métodos;
-    Operações aritméticas;
-    Comparação de dois números;
-    Acesso a um arranjo;
-    Seguimento de uma referência para um objeto;
-    Retorno de um método.
+    ##### Atribuição de valores a variáveis;
+    ##### Chamadas de métodos;
+    ##### Operações aritméticas;
+    ##### Comparação de dois números;
+    ##### Acesso a um arranjo;
+    ##### Seguimento de uma referência para um objeto;
+    ##### Retorno de um método.
 
 9 Problema
 Qual é o valor de uma operacao primitiva de um algoritmo?
