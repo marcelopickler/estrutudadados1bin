@@ -130,7 +130,8 @@
 ## 20 Problema
 ### Crie um gráfico explicando a notacao O-grande. Utilize f(n) = 2n + 4. Qual é um valor possível para n0?
 
-<img src="http://cdn.osxdaily.com/wp-content/uploads/2013/07/dancing-banana.gif" alt="Banana" /> 
+![BIG-O](https://user-images.githubusercontent.com/27862173/57167591-b3e2f280-6dd4-11e9-9277-5dc9c55e5b78.PNG)
+
 
 ##### O valor para n0 é n=5 || f(x)=14. O valor representado no gráfico é a barra laranja.
 ## 21 Problema
@@ -144,7 +145,10 @@
 ## 23 Problema
 ### Crie um gráfico explicando a notacao o-pequeno.
 
-##### image Notação do Little-Oh diz que uma função é menor que a outra função g(n). Ou seja, f é dominada por g assintoticamente. A diferença entre Big-Oh e Little-Oh é análoga àquela entre ≤ e <.
+![57163234-fb628200-6dc6-11e9-8244-35730167e848](https://user-images.githubusercontent.com/27862173/57167434-269f9e00-6dd4-11e9-8bb6-648aea081340.png)
+
+
+##### Notação do Little-Oh diz que uma função é menor que a outra função g(n). Ou seja, f é dominada por g assintoticamente. A diferença entre Big-Oh e Little-Oh é análoga àquela entre ≤ e <.
 ## 24 Problema
 ### Passe a notacao O-grande e o-pequeno as funcoes abaixo:
 
