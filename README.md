@@ -10,7 +10,7 @@
 ##### A medida de tempo de um algoritmo é realizada através de qual informacao?
 ##### O que pode afetá-la?
 
-##### A medição do tempo em representação a qualidade e estabilidade do software é feita mediante os passos do algoritmo que precisa ##### para finalizar a sua execução. Pode afetá-la pelo ambiente do hardware em que ela é executada e o tamanho da entrada.
+##### A medição do tempo em representação a qualidade e estabilidade do software é feita mediante os passos do algoritmo que precisa  para finalizar a sua execução. Pode afetá-la pelo ambiente do hardware em que ela é executada e o tamanho da entrada.
 ## 4 Problema
 ##### Na análise de algoritmos, qual é o valor da base da funcao logarítmica e exponencial? Por que é escolhido este valor?
 
@@ -167,7 +167,7 @@ image
 
 #### Problema 11 f(n) = 3n+3 Big Oh = n
 
-####Problema 12 f(n) = 4n+3 Big oh = n
+#### Problema 12 f(n) = 4n+3 Big oh = n
 
 #### Problema 13 f(n) = 3n² + 2n + 3 Big oh = n²
 
