@@ -107,7 +107,7 @@
 ## 16 Problema
 ### Qual é o processo da análise assintótica? Crie um exemplo.
 
-<img src="C:\Users\marce\Desktop" alt="Fluxo" />
+<img src="file:///C:/Users/marce/Desktop/leand.PNG" alt="Fluxo" />
 
     No primeiro caso define a variável f(n)
     Identificar o componente de maior ordem.
