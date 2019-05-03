@@ -107,7 +107,7 @@
 ## 16 Problema
 ##### Qual é o processo da análise assintótica? Crie um exemplo.
 
-image
+<img src="http://cdn.osxdaily.com/wp-content/uploads/2013/07/dancing-banana.gif" alt="Banana" />
 
     No primeiro caso define a variável f(n)
     Identificar o componente de maior ordem.
@@ -130,7 +130,7 @@ image
 ## 20 Problema
 ##### Crie um gráfico explicando a notacao O-grande. Utilize f(n) = 2n + 4. Qual é um valor possível para n0?
 
-image 
+<img src="http://cdn.osxdaily.com/wp-content/uploads/2013/07/dancing-banana.gif" alt="Banana" /> 
 ##### O valor para n0 é n=5 || f(x)=14. O valor representado no gráfico é a barra laranja.
 ## 21 Problema
 ##### O que é a notacao o-pequeno ou Little-Oh?
@@ -159,7 +159,7 @@ image
     G F(n) = 5n + 11
     H F(n) = 3logn
 
-image
+<img src="http://cdn.osxdaily.com/wp-content/uploads/2013/07/dancing-banana.gif" alt="Banana" />
 ## 25 Problema
 ##### Identifique o O-Grande dos algoritmos desenvolvidos nos Problemas 10 até 14.
 
