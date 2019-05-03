@@ -131,6 +131,7 @@
 ##### Crie um gráfico explicando a notacao O-grande. Utilize f(n) = 2n + 4. Qual é um valor possível para n0?
 
 <img src="http://cdn.osxdaily.com/wp-content/uploads/2013/07/dancing-banana.gif" alt="Banana" /> 
+
 ##### O valor para n0 é n=5 || f(x)=14. O valor representado no gráfico é a barra laranja.
 ## 21 Problema
 ##### O que é a notacao o-pequeno ou Little-Oh?
@@ -160,6 +161,7 @@
     H F(n) = 3logn
 
 <img src="http://cdn.osxdaily.com/wp-content/uploads/2013/07/dancing-banana.gif" alt="Banana" />
+
 ## 25 Problema
 ##### Identifique o O-Grande dos algoritmos desenvolvidos nos Problemas 10 até 14.
 
