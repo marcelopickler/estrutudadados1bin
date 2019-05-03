@@ -5,7 +5,8 @@
 ## 2 Problema
 ### Por que a medida de tempo em segundos nao representa qualificadamente o tempo de execucao de um algoritmo?
 
-##### Não é medida em tempo o software já que deve possuir certa independência entre a tecnología; o software e o hardware.
+##### Porque cada ambiente (hardware) em que é executado o algoritmo é diferente do outro, assim seu tempo de execução se difere também.
+
 ## 3 Problema
 ### A medida de tempo de um algoritmo é realizada através de qual informacao?
 ### O que pode afetá-la?
@@ -18,7 +19,7 @@
 ## 5 Problema
 ### O que é complexidade de tempo?
 
-##### É uma função que representa o número máximo de passos de um algoritmo.
+##### Função que representa o o tempo de execução através do nnúmero máximo de passos de um algoritmo.
 ## 6 Problema
 ### Dado dois algoritmos A e B com as complexidades de tempo respectivamente f1 e f2, qual é o melhor algoritmo? O que indica qual é o melhor algoritmo?
 
@@ -109,11 +110,10 @@
 
 ![image](https://user-images.githubusercontent.com/27862173/57166675-4a151980-6dd1-11e9-83c5-ae3e24c5f956.png)
 
-    No primeiro caso define a variável f(n)
-    Identificar o componente de maior ordem.
-    6n³
-    Ignorar os coeficientes.
-    n³
+    É definida uma variável,
+    Selecione o maior item,
+    Por fim, ignore o coeficiente.
+    
 
 ## 17 Problema
 ### O que é a notação assintótica?
@@ -160,7 +160,7 @@
     G F(n) = 5n + 11
     H F(n) = 3logn
 
-<img src="http://cdn.osxdaily.com/wp-content/uploads/2013/07/dancing-banana.gif" alt="Banana" />
+![tabela](https://user-images.githubusercontent.com/27862173/57167372-eb9d6a80-6dd3-11e9-9a9f-72c8c59be338.PNG)
 
 ## 25 Problema
 ### Identifique o O-Grande dos algoritmos desenvolvidos nos Problemas 10 até 14.
