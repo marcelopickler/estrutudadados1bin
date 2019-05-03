@@ -165,12 +165,12 @@
 ## 25 Problema
 ### Identifique o O-Grande dos algoritmos desenvolvidos nos Problemas 10 até 14.
 
-#### Problema 10 f(n)=2 Big oh = 1
+#### Problema 10 f(n)=2 Big-O = 1
 
-#### Problema 11 f(n) = 3n+3 Big Oh = n
+#### Problema 11 f(n) = 3n+3 Big-O = n
 
-#### Problema 12 f(n) = 4n+3 Big oh = n
+#### Problema 12 f(n) = 4n+3 Big-O = n
 
-#### Problema 13 f(n) = 3n² + 2n + 3 Big oh = n²
+#### Problema 13 f(n) = 3n² + 2n + 3 Big-O = n²
 
-#### Problema 14 f(n) = 4n² + 2n + 2 Big oh = n²
+#### Problema 14 f(n) = 4n² + 2n + 2 Big-O = n²
